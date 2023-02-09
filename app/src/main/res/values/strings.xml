@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alura Viagens</string>
+    <string name="app_bar_title">Pacotes</string>
+    <string name="banner_inicial_dos_pacotes">Banner Inicial dos Pacotes</string>
+    <string name="especiais">Especiais</string>
+    <string name="pais">Brasil</string>
+    <string name="imagem_da_cidade">Imagem da cidade</string>
+</resources>
