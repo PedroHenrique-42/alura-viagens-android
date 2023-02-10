@@ -1,5 +1,6 @@
 package br.com.pedro.aluraviagens.ui.activitys;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ListView;
 
@@ -16,10 +17,13 @@ public class ListaPacotesActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setTitle(R.string.app_bar_title);
         setContentView(R.layout.activity_lista_pacotes);
-
         setAdapterOnListView();
+        Intent intent = new Intent(this, ResumoPacoteActivity.class);
+        startActivity(intent);
+
     }
 
     private void setAdapterOnListView() {

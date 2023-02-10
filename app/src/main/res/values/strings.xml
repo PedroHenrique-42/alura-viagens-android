@@ -5,4 +5,16 @@
     <string name="especiais">Especiais</string>
     <string name="pais">Brasil</string>
     <string name="imagem_da_cidade">Imagem da cidade</string>
+    <string name="imagem_do_pacote">Imagem do pacote</string>
+    <string name="preco_final">Preço final:</string>
+    <string name="realizar_pagamento">Realizar pagamento</string>
+    <string name="mascara_nome_no_cartao">abcdefghijklmnopqrstuvwxyzçABCDEFGHIJKLMNOPQRSTUVWXYZÇ\u0020</string>
+    <string name="orientacao_pagamento">Digite as informações do cartão de crédito que você deseja usar para o pagamento</string>
+    <string name="valor_da_compra">Valor da compra</string>
+    <string name="numero_do_cartao">Número do cartão</string>
+    <string name="mes_cartao">MM</string>
+    <string name="ano_cartao">AA</string>
+    <string name="cvc_pagamento">CVC</string>
+    <string name="nome_no_cartao">Nome no cartão</string>
+    <string name="texto_botao_pagamento">Finalizar compra</string>
 </resources>

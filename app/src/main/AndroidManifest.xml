@@ -12,6 +12,15 @@
         android:theme="@style/Theme.AluraVIagens"
         tools:targetApi="31">
         <activity
+            android:name=".ResumoCompraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activitys.PagamentoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activitys.ResumoPacoteActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activitys.ListaPacotesActivity"
             android:exported="true">
             <intent-filter>
