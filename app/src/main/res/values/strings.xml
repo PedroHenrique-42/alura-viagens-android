@@ -17,4 +17,9 @@
     <string name="cvc_pagamento">CVC</string>
     <string name="nome_no_cartao">Nome no cartão</string>
     <string name="texto_botao_pagamento">Finalizar compra</string>
+    <string name="banner_inicial">Imagem de fundo laranja</string>
+    <string name="parabens">Parabéns!</string>
+    <string name="compra_realizada_com_sucesso">Compra realizada com sucesso :)</string>
+    <string name="confira_o_resumo_da_compra">Confira o resumo da compra:</string>
+    <string name="imagem_do_local">Imagem do local</string>
 </resources>
